@@ -26,6 +26,6 @@ calculate how many total countries been stored.
             }
             System.out.println();
         }
-        System.out.println("Total countries "+counter);
+        System.out.println("Total countries with 2D arrays "+counter);
     }
 }
