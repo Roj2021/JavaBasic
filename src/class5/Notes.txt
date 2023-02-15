@@ -1,0 +1,32 @@
+Scanner class:
+
+Help us take the input from keyboard.
+ just another set of symbols that we can use to combine multiple boolean values.
+ There are three logical operators ! || &&
+
+ why we should learn about the logical operators
+ we can greatly simplify th
+ e logic if we use these operators
+
+ what is the syntax:
+ they only work with boolean data type
+ if(! condition)
+ if(condition1 || condition2)
+ if(conditions1 &&
+
+
+
+NOT Operators(!)
+  Not is used to negate the boolean values if something is true it will make it false if something is false it will make it tru
+
+  What is switch case statement are just another of achieving the same results as if- else -if conditions.
+
+  why should we learn about them:
+  The reason we should use them is they are very fast.
+  Syntax:
+
+
+     switch
+
+
+

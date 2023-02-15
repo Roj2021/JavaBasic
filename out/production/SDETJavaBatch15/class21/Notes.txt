@@ -1,0 +1,10 @@
+Super Keyword:
+
+Is used to refer to the parent class members like fields methods and constructors.
+  When we should use Super or "this "keyword:
+    Whenever same name field or method exists inside the parent and child class. we can use super keyword to
+     explicit refer to parent class variables methods or constructors
+
+
+     note:
+m  By default java prefers local variables than insatnce variables fromthe same class after

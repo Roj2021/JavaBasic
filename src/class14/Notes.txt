@@ -1,0 +1,2 @@
+String class:
+ String is the most widely used class in java. It can store sequence of characters. we should
